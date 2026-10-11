@@ -1,0 +1,20 @@
+{
+  "name": "homework-ts-41",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sctipts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "types": "./sctipts.d.ts",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
+  }
+}
